@@ -1,0 +1,47 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/dogs"
+        android:showAsAction="ifRoom"
+        android:title="@string/dogs">
+        <menu>
+            <item
+                android:id="@+id/bigdogs"
+                android:showAsAction="ifRoom"
+                android:title="@string/bigdogs"/>
+            <item
+                android:id="@+id/littledogs"
+                android:showAsAction="ifRoom"
+                android:title="@string/littledogs"/>
+        </menu>
+    </item>
+    <item
+        android:id="@+id/chickens"
+        android:showAsAction="ifRoom"
+        android:title="@string/chickens"/>
+    <item
+        android:id="@+id/pigs"
+        android:showAsAction="ifRoom"
+        android:title="@string/pigs"/>
+    <item
+        android:id="@+id/cats"
+        android:showAsAction="ifRoom"
+        android:title="@string/cats"/>
+    <item
+        android:id="@+id/crickets"
+        android:showAsAction="ifRoom"
+        android:title="@string/crickets"/>
+    <item
+        android:id="@+id/cows"
+        android:showAsAction="ifRoom"
+        android:title="@string/cows"/>
+    <item
+        android:id="@+id/crows"
+        android:showAsAction="ifRoom"
+        android:title="@string/crows"/>
+    <item
+        android:id="@+id/stop"
+        android:showAsAction="ifRoom"
+        android:title="@string/stop"/>
+
+</menu>

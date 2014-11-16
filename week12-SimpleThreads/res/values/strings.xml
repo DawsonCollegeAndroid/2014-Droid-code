@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Async Example</string>
+    <string name="threadex">Java Thread Example</string>
+    <string name="asyncex">AsyncTask Example</string>
+    <string name="nothread">All Done on UI Thread</string>
+    <string name="app_nameJava">Simple Java Thread Example</string>
+        <string name="app_nameUI">Simple UI Thread Example</string>
+</resources>

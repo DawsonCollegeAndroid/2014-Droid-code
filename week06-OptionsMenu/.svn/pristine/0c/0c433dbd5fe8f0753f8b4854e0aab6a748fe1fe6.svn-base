@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">optionsMenu</string>
+    <string name="action_settings">Settings</string>
+    <string name="instructions">Hit the Menu button or the 3 hamburgers. Whichever shows. I am playing fast and loose with the mediaplayer so it may crash</string>
+    <string name="dogs">Dogs</string>
+    <string name="bigdogs">Big Dogs</string>
+    <string name="littledogs">Little Dogs</string>
+    <string name="cats">Cats</string>
+    <string name="chickens">Chickens</string>
+    <string name="pigs">Pigs</string>
+    <string name="crickets">Crickets</string>
+    <string name="cows">Cows</string>
+    <string name="crows">Crows</string>
+    <string name="stop">Stop the racket</string>
+    <string name="newactivity2">Launch New Activity2</string>
+    <string name="newactivity3">Launch New Activity3</string>
+    <string name="popupmenu">Shop Pop Up Menu</string>
+    <string name="title_activity_activity3">Farm Animals</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
