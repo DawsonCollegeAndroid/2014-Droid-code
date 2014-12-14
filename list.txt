@@ -24,3 +24,6 @@
  week12-dbCursorAdapter-AsyncTask/
  week13-Net1-CheckStatus/
  week13-Net2-HttpURLConnection-GET/
+ week14-HttpsURLConnectionExample-POST
+ week14-HttpUrlConnection-GoogleSearchAPI-JSON
+ week15-SimpleFragments-fromText
