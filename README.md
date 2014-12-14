@@ -10,5 +10,7 @@ The code is simplified and sometimes missing the catching of exceptions or other
 
 That being said I am responsible for any errors therein please contact me at pcampbell.dawson@gmail.com to report errors or omissions.
 
-All of my code is released under the GNU GPL V3 2014
+All of my code is released under the GNU GPL V3 2014  see LICENSE.md
+
+The book used with the course is Introduction to Android Application Development 4th Edition, Annuzi, Darcey, Conder
 
