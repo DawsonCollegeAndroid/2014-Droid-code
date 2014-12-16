@@ -14,3 +14,5 @@ All of my code is released under the GNU GPL V3 2014  see LICENSE.md
 
 The book used with the course is Introduction to Android Application Development 4th Edition, Annuzi, Darcey, Conder
 
+See apks directory for installable apks associated with the code (built for Ice Cream Sandw & up)
+
